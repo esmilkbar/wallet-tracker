@@ -1,0 +1,9 @@
+{
+    "name": "Wallet Tracker",
+    "short_name": "Wallet Tracker",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "description": "A simple personal wallet and expense tracker."
+}
